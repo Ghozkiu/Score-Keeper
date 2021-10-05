@@ -1,0 +1,18 @@
+select {
+    outline: none;
+    border-radius: 8px;
+    margin: 0px 10px 10px 10px;
+    padding: 0.3rem 1rem;
+}
+
+.col-xl-auto,
+col {
+    margin-bottom: 50px;
+}
+.winner {
+    color: rgb(5, 143, 5);
+}
+
+.loser {
+    color: red;
+}
